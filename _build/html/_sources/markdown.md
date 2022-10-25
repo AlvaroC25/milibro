@@ -1,55 +1,28 @@
-# Markdown Files
+# La Sierra Ecuatoriana
 
-Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
-in regular markdown files (`.md`), you'll write in the same flavor of markdown
-called **MyST Markdown**.
-This is a simple file to help you get started and show off some syntax.
+**El Panecillo**
+El Panecillo es una elevación natural de 3.000 metros sobre el nivel del mar, enclavada en el corazón mismo de la ciudad de Quito. Un atractivo turístico de la capital de Ecuador que no pueden dejar de visitar.
 
-## What is MyST?
+![](panecillo.jpg)
 
-MyST stands for "Markedly Structured Text". It
-is a slight variation on a flavor of markdown called "CommonMark" markdown,
-with small syntax extensions to allow you to write **roles** and **directives**
-in the Sphinx ecosystem.
+**Volcán Pichincha**
+El Pichincha es un volcán de Ecuador. La capital ecuatoriana, Quito, se encuentra en sus faldas. Presenta varias cumbres, que en la siguiente lista están mencionadas desde la geológicamente más vieja al noreste hasta la más nueva al suroeste. En esta ruta de montaña los participantes podrán alcanzar los 4.630metros sobre el nivel del mar. Además, podrán disfrutar de los jardines de Chuquiragua hasta llegar a la cumbre Cruz de los Caminantes y admirar el inigualable paisaje desde el mirador del cráter.
 
-For more about MyST, see [the MyST Markdown Overview](https://jupyterbook.org/content/myst.html).
+![](Pichincha.JPG)
 
-## Sample Roles and Directives
+**Pailón del Diablo**
+Baños tiene un sinnúmero de cascadas, y una de las más conocidas es el Pailón del Diablo. Esta famosa cascada se encuentra ubicada a 17 kilómetros de la ciudad de Baños de Agua Santa, específicamente en la parroquia de Río Verde, y su nombre real es cascada río Verde, aunque el nombre del Pailón del Diablo es el que se ha popularizado. Esta caída de agua de 80 metros de altura y una profundidad de 20 metros, es un ícono del turismo en el Ecuador, y se ha convertido en un destino top de Baños.
 
-Roles and directives are two of the most powerful tools in Jupyter Book. They
-are kind of like functions, but written in a markup language. They both
-serve a similar purpose, but **roles are written in one line**, whereas
-**directives span many lines**. They both accept different kinds of inputs,
-and what they do with those inputs depends on the specific role or directive
-that is being called.
+![](Pailon.JPG)
 
-Here is a "note" directive:
+**Casa del árbol o columpio del fin del mundo**
 
-```{note}
-Here is a note
-```
+La Casa del Árbol es uno de los sitios insignes de Baños. Se encuentra ubicada en las faldas del volcán Tungurahua en la zona de Runtún, a 2.660 metros sobre el nivel del mar y se constituye como un mirador perfecto para admirar el imponente volcán Tungurahua y su actividad volcánica. Adicionalmente, en la Casa del árbol encontrarás el famoso columpio del fin del mundo, un conocido atractivo turístico. Al columpiarte sobre él te encontrarás sobre una pendiente bastante pronunciada que te hará sentir como si estuvieras volando sobre un acantilado.
 
-It will be rendered in a special box when you build your book.
+![](casa.JPG)
 
-Here is an inline directive to refer to a document: {doc}`markdown-notebooks`.
+**Volcán Chimborazo**
 
+El Chimborazo, con sus imponentes 20.560 pies de altura sobre las tierras costeras a un lado, y sobre la selva amazónica al otro, el Chimborazo es el pico más alto del Ecuador y el decimoséptimo del mundo. Una curiosidad acerca del Chimborazo es que su cima constituye el punto más lejano de la superficie terrestre con respecto al centro del planeta.
 
-## Citations
-
-You can also cite references that are stored in a `bibtex` file. For example,
-the following syntax: `` {cite}`holdgraf_evidence_2014` `` will render like
-this: {cite}`holdgraf_evidence_2014`.
-
-Moreover, you can insert a bibliography into your page with this syntax:
-The `{bibliography}` directive must be used for all the `{cite}` roles to
-render properly.
-For example, if the references for your book are stored in `references.bib`,
-then the bibliography is inserted with:
-
-```{bibliography}
-```
-
-## Learn more
-
-This is just a simple starter to get you started.
-You can learn a lot more at [jupyterbook.org](https://jupyterbook.org).
+![](chimborazo.jpg)

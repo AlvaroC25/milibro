@@ -1,54 +1,35 @@
----
-jupytext:
-  cell_metadata_filter: -all
-  formats: md:myst
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.11.5
-kernelspec:
-  display_name: Python 3
-  language: python
-  name: python3
----
+# El Oriente y Región Insular Ecuatoriana
 
-# Notebooks with MyST Markdown
+**Las cavernas Jumandi**
 
-Jupyter Book also lets you write text-based notebooks using MyST Markdown.
-See [the Notebooks with MyST Markdown documentation](https://jupyterbook.org/file-types/myst-notebooks.html) for more detailed instructions.
-This page shows off a notebook written in MyST Markdown.
+Es un balneario diferente porque tiene una caverna natural, que se creé, fue utilizada por el cacique Jumandi en tiempos de la conquista española. La caverna es super divertida de cruzar, te demoras unos 30 minutos y vas siempre con guía. El complejo cuenta además con piscinas y toboganes.
 
-## An example cell
+![](pisinas.JPG)
 
-With MyST Markdown, you can define code cells with a directive like so:
+**Ciudad de Tena**
 
-```{code-cell}
-print(2 + 2)
-```
+La moderna capital de la provincia de Napo se llama Tena, tierra de la guayusa y la canela. Tiene un hermoso Malecón junto a los dos Ríos, ademas de contar con la infraestructura para que los Turistas puedan realizar cualquier actividad. 
 
-When your book is built, the contents of any `{code-cell}` blocks will be
-executed with your default Jupyter kernel, and their outputs will be displayed
-in-line with the rest of your content.
+![](tena1.jpg)
 
-```{seealso}
-Jupyter Book uses [Jupytext](https://jupytext.readthedocs.io/en/latest/) to convert text-based files to notebooks, and can support [many other text-based notebook files](https://jupyterbook.org/file-types/jupytext.html).
-```
+**Las Cascadas "Latas"**
 
-## Create a notebook with MyST Markdown
+Disfruta de un paseo por la selva y junto a un pequeño río con abundantes cascadas, las cascadas de "Latas". En cada una de las cascadas se forman pequeñas piscinas naturales de agua limpia y cristalina. Ideal para pasear y refrescarse en familia.
 
-MyST Markdown notebooks are defined by two things:
+![](cascada.jpg)
 
-1. YAML metadata that is needed to understand if / how it should convert text files to notebooks (including information about the kernel needed).
-   See the YAML at the top of this page for example.
-2. The presence of `{code-cell}` directives, which will be executed with your book.
+**Caleta Tortuga Negra**
 
-That's all that is needed to get started!
+La Caleta Tortuga Negra es un estuario de manglares en la costa norte de la Isla Santa Cruz en las Islas Galápagos en el país sudamericano de Ecuador. El parque nacional tiene regulaciones estrictas para proteger este ambiente prístino. Cuenta con una importante extensión de manglar. Este es uno de los lugares donde se reproducen varias especies marinas como las tortugas marinas negras y verdes. Aquí se observan tres tipos de tiburones: el tiburón de aleta negra, el tiburón de Galápagos y la popular tintorera. En ciertas ocasiones también se ven rayas doradas.
 
-## Quickly add YAML metadata for MyST Notebooks
+![](tortuga.jpg)
 
-If you have a markdown file and you'd like to quickly add YAML metadata to it, so that Jupyter Book will treat it as a MyST Markdown Notebook, run the following command:
+**La Lobería en Isla San Cristóbal**
 
-```
-jupyter-book myst init path/to/markdownfile.md
-```
+Uno de los rincones más fotografiados de las Galápagos, es esta hermosa playa de arenas coralinas y aguas turquesas, llamada de esta forma, por la gran cantidad de lobos marinos que frecuentemente se pueden observar, descansando entre las rocas o sumergiéndose en el mar. Además de lobos marinos, en la playa son comunes las tortugas e iguanas marinas, junto a varios tipos de aves, como lo son el canario maría, fragatas y varias especies de pinzones.
+
+![](lobos.jpg)
+
+
+
+
