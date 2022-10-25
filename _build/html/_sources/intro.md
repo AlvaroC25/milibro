@@ -2,7 +2,7 @@
 
 Ecuador Travel - Turismo en Ecuador les presenta los mejores lugares turísticos de Ecuador, una amplia gama de turismo y aventura construido en el sitio perfecto. Ecuador es uno de los países que dispone de cientos de destinos turísticos, desde la sierra, costa, oriente y su región insular, obtendrán el mejor destino turístico para visitar.
 
-![](primer-plano-bandera-ondeante-ecuador-texturas-interesantes_181624-10459.jpg)
+![](turistico.jpg)
 
 **A continuación, se mostrará las principales ciudades más turísticas de cada región:**
 
